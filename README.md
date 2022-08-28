@@ -8,4 +8,4 @@ Kicked cars often result when there are tampered odometers, mechanical issues th
 
 Modelers who can figure out which cars have a higher risk of being kick can provide real value to dealerships trying to provide the best inventory selection possible to their customers.  
 
-**The challenge here is to predict if the car purchased at the Auction is a Kick (bad buy).**
+**The goal of this project is to predict if the car purchased at the Auction is a Kick (bad buy).**
